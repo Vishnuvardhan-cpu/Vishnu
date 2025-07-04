@@ -1,5 +1,5 @@
-x = 1
-y =2
+x = int(input('enter 1st number:'))
+y = int(input('enter 2nd number:'))
 if x>y:
     print(x,"is a biggest number")
 else:
