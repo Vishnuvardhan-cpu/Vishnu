@@ -1,5 +1,5 @@
-x = 10
-y = 5
+x = 5000000
+y = 1564888
 if x>y:
     print(x,"is a biggest number")
 else:
